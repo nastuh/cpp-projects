@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Calculator.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Calculator.cpp
+C:\Users\user\Desktop\Calculator\Calculator\Calculator.h(545,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Calculator.cpp")
+  
+C:\Users\user\Desktop\Calculator\Calculator\Calculator.h(554,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Calculator.cpp")
+  
+C:\Users\user\Desktop\Calculator\Calculator\Calculator.h(570,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Calculator.cpp")
+  
+C:\Users\user\Desktop\Calculator\Calculator\Calculator.h(590,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Calculator.cpp")
+  
+C:\Users\user\Desktop\Calculator\Calculator\Calculator.h(596,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Calculator.cpp")
+  
+C:\Users\user\Desktop\Calculator\Calculator\Calculator.h(602,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Calculator.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Calculator.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> C:\Users\user\Desktop\Calculator\x64\Debug\DefCalculator.exe
